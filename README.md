@@ -1,4 +1,4 @@
-This package was renamed to [ontimize-web-ngx-quickstart](https://github.com/OntimizeWeb/ontimize-web-ng2-quickstart)
+This package was renamed to [ontimize-web-ngx-quickstart](https://github.com/OntimizeWeb/ontimize-web-ngx-quickstart)
 
 
 ## Live demo
