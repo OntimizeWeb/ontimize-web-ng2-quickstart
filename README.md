@@ -3,4 +3,4 @@ This package was renamed to [ontimize-web-ngx-quickstart](https://github.com/Ont
 
 ## Live demo
 
-Check out application demo <a href="https://ontimizeweb.github.io/ontimize-web-ngx-quickstart" target="_blank" title="live demo"> here</a>
+Check out application demo <a href="https://try.imatia.com/ontimizeweb/quickstart/" target="_blank" title="live demo"> here</a>
